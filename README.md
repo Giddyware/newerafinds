@@ -1,2 +1,0 @@
-# newerafinds
-Shopping cart
